@@ -1,2 +1,5 @@
-<-- to install node on cpanel whm terminal. -->
+<-- to install nodejs on cpanel whm terminal. -->
 sudo yum install -y nodejs
+
+<-- to remove nodejs on cpanel whm terminal. -->
+sudo yum remove -y nodejs npm
