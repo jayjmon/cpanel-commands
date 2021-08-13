@@ -1,0 +1,2 @@
+<-- to install node on cpanel whm terminal. -->
+sudo yum install -y nodejs
